@@ -40,15 +40,3 @@ Profile Page:
 
 View and manage user profile details.
 
-Project Structure
-ecommerce-app/
-│
-├─ src/
-│   ├─ components/      # React components for different sections
-│   ├─ pages/           # Pages like Home, Product, Cart, Profile
-│   ├─ App.js           # Main application file
-│   └─ index.js         # Entry point
-│
-├─ public/              # Static assets
-├─ package.json         # Project dependencies
-└─ README.md            # Project documentation
